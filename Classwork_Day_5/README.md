@@ -1,7 +1,7 @@
 
 # Hosted link :
 
-You can check live site here [Day_5_Classwork](https://day-5-classwork.netlify.app/).
+You can check live site here [https://fs02-react-day-5.vercel.app/).
 
 
 # Getting Started with Create React App
