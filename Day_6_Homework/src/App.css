@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box {
+  width: 120px;
+  height: 120px;
+}
+
+.details {
+  height: 60px;
+  width: 120px;
+}
