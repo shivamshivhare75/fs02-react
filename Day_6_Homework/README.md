@@ -1,6 +1,6 @@
 # Hosted link 
 
-You can check live webapp here [Day_6_Homework](https://day-6-homework.netlify.app/).
+You can check live webapp here [Day_6_Homework](https://6567884c4228f708a1570b40--gregarious-pixie-f4e47a.netlify.app/).
 
 # Getting Started with Create React App
 
