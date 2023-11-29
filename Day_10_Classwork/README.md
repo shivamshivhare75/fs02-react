@@ -1,6 +1,6 @@
 # Hosted link 
 
-You can check live app here [Day-10-CW](https://day-10-cw-app.netlify.app/) .
+You can check live app here [Day-10-CW](https://fs02-react-day10-cw.vercel.app/) .
 
 # Getting Started with Create React App
 
