@@ -1,6 +1,6 @@
 # Getting Started with Create React App       
 
-Hosted link    [Click here]([https://cart-calculator-rosy.vercel.app/](https://6567b56de99384211a3df82c--strong-sprite-daaf88.netlify.app/))
+Hosted link    [Click here](https://cart-calculator-rosy.vercel.app/](https://6567b56de99384211a3df82c--strong-sprite-daaf88.netlify.app/)
 
 
 
