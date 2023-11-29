@@ -1,6 +1,6 @@
 # Hosted link 
 
-You can check live link here [passward-generater](https://65679ad39d7feb17d33496af--tangerine-sfogliatella-23d1ab.netlify.app/)
+You can check live link here [password-generater](https://65679ad39d7feb17d33496af--tangerine-sfogliatella-23d1ab.netlify.app/)
 
 
 # Getting Started with Create React App
