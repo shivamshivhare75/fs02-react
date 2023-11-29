@@ -1,5 +1,5 @@
 # Hosted link 
-Check here live hosted app [Geekfoodapp](https://geekfoodapp.netlify.app/).
+Check here live hosted app [Geekfoodapp](https://6567ae2bc883371b76de46a2--unrivaled-salamander-63e793.netlify.app/).
 
 
 # Getting Started with Create React App
