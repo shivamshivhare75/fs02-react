@@ -1,6 +1,6 @@
 # Hosted link 
 
-check live app here [Quotes-geek](https://quotes-geek-food.netlify.app/).
+check live app here [Quotes-geek](https://65678cd6d5c1e2008fc2d2f5--playful-malabi-bf8a01.netlify.app/).
 
 # Getting Started with Create React App
 
